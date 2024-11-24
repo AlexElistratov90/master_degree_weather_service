@@ -1,0 +1,9 @@
+<archetype>
+  <id>mod6_final_task_meteorological_data_ElistratovAA_v01</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
